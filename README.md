@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <!--
-**Eggiverse/Eggiverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am currently in a cat's state of machine learning and physics.
+
+I like physics, programming and linguistics.
